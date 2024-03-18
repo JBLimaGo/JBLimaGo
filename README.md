@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 Sejam bem-vindos !!!
 <br>
-## Eu sou o Jefferson Lima, Desenvolvedora Front-End !!
+## ## Olá! Eu sou o Jefferson Lima, Desenvolvedor Front-End !!
 <br>
 Atualmente tenho experiência e conhecimento em projetos com:
 <br>
@@ -47,6 +47,8 @@ Atualmente tenho experiência e conhecimento em projetos com:
 </p>
 <br/>
 <br/>
+
+![Jefferson_Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=JBLimaGo&show_icons=true&theme=dracula&count_private=true)
 
 
 
