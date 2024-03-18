@@ -50,6 +50,16 @@ Atualmente tenho experiência e conhecimento em projetos com:
 
 ![Jefferson_Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=JBLimaGo&show_icons=true&theme=tokyonight&count_private=true)
 
+<br/>
+<br/>
+
+![Snake animation](https://github.com/rafaballerini2/JBLimaGo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JBLimaGo/JBLimaGo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JBLimaGo/JBLimaGo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JBLimaGo/JBLimaGo/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 
