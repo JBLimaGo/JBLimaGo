@@ -48,7 +48,11 @@ Atualmente tenho experiência e conhecimento em projetos com:
 <br/>
 <br/>
 
-![Jefferson_Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=JBLimaGo&show_icons=true&theme=tokyonight&count_private=true)
+<div>
+<a href="http://github.com/JBLimaGo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JBLimaGo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBLimaGo&layout=compact&langs_coint=16&theme=tokyonight"/>
+</div>
 
 <br/>
 <br/>
