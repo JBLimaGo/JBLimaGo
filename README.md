@@ -48,7 +48,7 @@ Atualmente tenho experiência e conhecimento em projetos com:
 <br/>
 <br/>
 
-![Jefferson_Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=JBLimaGo&show_icons=true&theme=dracula&count_private=true)
+![Jefferson_Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=JBLimaGo&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
