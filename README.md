@@ -37,9 +37,10 @@ Atualmente tenho experiência e conhecimento em projetos com:
 👩🏻‍💻🤝
 <p>
 
-<div>  
-  <a href = "mailto:jefferson.lima.pb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/jefferson-lima-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div>                                                       
+  <a href = "mailto:jefferson.lima.pb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://linkedin.com/in/jefferson-lima-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://equablethistle83@walletofsatoshi.com" target="_blank"><img src= "https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a> 
 </div>
 
 </p>
