@@ -42,8 +42,10 @@ Atualmente tenho experiência e conhecimento em projetos com:
 <div>                                                       
   <a href = "mailto:jefferson.lima.pb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://linkedin.com/in/jefferson-lima-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "http://github.com/JBLimaGo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
- 
+  <a href = "http://github.com/JBLimaGo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">  </a>
+
+  <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" target="_blank"> -->
+
  <!--  <a href = "https://equablethistle83@walletofsatoshi.com" target="_blank"><img src= "https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"> equablethistle83@walletofsatoshi.com </a>  -->
 </div>
 </p>
@@ -58,7 +60,7 @@ Atualmente tenho experiência e conhecimento em projetos com:
 <div>
 <a href="http://github.com/JBLimaGo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JBLimaGo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBLimaGo&layout=compact&langs_coint=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBLimaGo&layout=compact&langs_coint=16&theme=tokyonight"/> 
 </div>
 
 <br/>
