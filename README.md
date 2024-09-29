@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 Sejam bem-vindos !!!
 <br>
-## ## Olá! Eu sou o Jefferson Lima, Desenvolvedor Front-End !!
+## ## Olá! Eu sou o Jefferson Lima, Desenvolvedor Full Stack !!
 <br>
 Atualmente tenho experiência e conhecimento em projetos com:
 <br>
