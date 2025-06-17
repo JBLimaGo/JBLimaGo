@@ -24,7 +24,7 @@ Atualmente tenho experiência e conhecimento em projetos com:
 <br>
 <br>
 
-Frontend:
+### Frontend:
 <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
@@ -37,7 +37,7 @@ Frontend:
  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite-logo"/>
 </div>
 <br>
-IDEs: 
+### IDEs: 
 <div>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual_Studio_Code-logo"/>
  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi-logo"/>
