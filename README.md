@@ -23,7 +23,7 @@ Sejam bem-vindos !!!
 
 ### Atualmente tenho experiência e conhecimento em projetos com:
 
-### Frontend:
+### 🌱 Frontend:
 <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
@@ -42,7 +42,7 @@ Sejam bem-vindos !!!
  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi-logo"/>
 </div>
 
-### Tools:
+### 🌱 Tools:
 <div>
  <img src="https://camo.githubusercontent.com/aa9359eb35f92d11bb47bff9b17b39bb9a04fc3003ff6b9b9a87ff2f8e63f390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="git-logo"/>
  <img src="https://camo.githubusercontent.com/b6a66fadb193e21d865bc9dc40935bf61ab1747e7a294af8f72fc0f9db0880c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574" alt="bitbucket-logo"/>
