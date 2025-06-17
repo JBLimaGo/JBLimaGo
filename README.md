@@ -64,6 +64,7 @@ Sejam bem-vindos !!!
  <img src = "https://img.shields.io/badge/Firebird-003B57?style=for-the-badge&logo=sqlite&logoColor=Orange"/>
 </div>
 
+
 <div>
 <a href="http://github.com/JBLimaGo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JBLimaGo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
