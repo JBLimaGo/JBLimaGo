@@ -36,7 +36,7 @@ Sejam bem-vindos !!!
  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite-logo"/>
 </div>
 
-### IDEs: 
+### 🌱 IDEs: 
 <div>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual_Studio_Code-logo"/>
  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi-logo"/>
