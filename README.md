@@ -20,7 +20,8 @@ Sejam bem-vindos !!!
 <br>
 ## ## Olá! Eu sou o Jefferson Lima, Desenvolvedor Full Stack !!
 <br>
-Atualmente tenho experiência e conhecimento em projetos com:
+
+### Atualmente tenho experiência e conhecimento em projetos com:
 <br>
 <br>
 
