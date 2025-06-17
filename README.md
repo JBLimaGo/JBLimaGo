@@ -37,13 +37,15 @@ Atualmente tenho experiência e conhecimento em projetos com:
  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite-logo"/>
 </div>
 <br>
+
 ### IDEs: 
 <div>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual_Studio_Code-logo"/>
  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi-logo"/>
 </div>
 <br>
-Tools:
+
+### Tools:
 <div>
  <img src="https://camo.githubusercontent.com/aa9359eb35f92d11bb47bff9b17b39bb9a04fc3003ff6b9b9a87ff2f8e63f390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="git-logo"/>
  <img src="https://camo.githubusercontent.com/b6a66fadb193e21d865bc9dc40935bf61ab1747e7a294af8f72fc0f9db0880c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574" alt="bitbucket-logo"/>
@@ -56,11 +58,9 @@ Tools:
 
 <div>                                                       
   <a href = "mailto:jefferson.lima.pb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://linkedin.com/in/jefferson-lima-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href = "https://linkedin.com/in/jefferson-lima-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
   <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" target="_blank"> -->
-
  <!--  <a href = "https://equablethistle83@walletofsatoshi.com" target="_blank"><img src= "https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"> equablethistle83@walletofsatoshi.com </a>  -->
 </div>
 </p>
