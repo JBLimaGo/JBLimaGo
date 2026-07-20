@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 <div> 
  <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Firebird-003B57?style=for-the-badge&logo=sqlite&logoColor=Orange"/>
+ <img src = "https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
 <br>
 
