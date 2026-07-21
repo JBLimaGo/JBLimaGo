@@ -71,11 +71,18 @@ Here are some ideas to get you started:
 
 <div>
   <a href="http://github.com/JBLimaGo" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JBLimaGo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img src="https://img.shields.io/github/followers/JBLimaGo?label=Followers&style=for-the-badge&logo=github&color=blueviolet"/>
   </a>
   <a href="http://github.com/JBLimaGo" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBLimaGo&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img src="https://img.shields.io/github/stars/JBLimaGo?label=Stars&style=for-the-badge&logo=github&color=yellow"/>
   </a>
+</div>
+<br>
+
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
 <!--
